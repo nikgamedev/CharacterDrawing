@@ -1,2 +1,2 @@
 # CharacterDrawing
- This is webgl version of "Character Drawing" 
+ Play on web from here https://nikgamedev.github.io/CharacterDrawing/
